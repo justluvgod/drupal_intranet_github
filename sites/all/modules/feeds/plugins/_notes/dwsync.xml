@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FeedsCSVParser.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsFetcher.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsFileFetcher.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsHTTPFetcher.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsNodeProcessor.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsOPMLParser.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsParser.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsPlugin.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsProcessor.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsSimplePieParser.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsSitemapParser.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsSyndicationParser.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsTermProcessor.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+<file name="FeedsUserProcessor.inc" server="C:/xampp/htdocs/drupal/" local="129623039790000000" remote="129623039790000000" />
+</dwsync>

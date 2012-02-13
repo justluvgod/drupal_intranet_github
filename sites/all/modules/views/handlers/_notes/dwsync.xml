@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_area.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_area_result.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_area_text.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_area_view.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument_date.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument_formula.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument_group_by_numeric.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument_many_to_one.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument_null.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument_numeric.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_argument_string.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_boolean.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_counter.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_custom.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_date.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_entity.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_markup.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_math.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_numeric.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_prerender_list.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_serialized.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_time_interval.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_field_url.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_boolean_operator.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_boolean_operator_string.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_date.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_equality.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_group_by_numeric.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_in_operator.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_many_to_one.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_numeric.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_filter_string.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_relationship.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_relationship_groupwise_max.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_sort.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_sort_date.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_sort_group_by_numeric.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_sort_menu_hierarchy.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+<file name="views_handler_sort_random.inc" server="C:/xampp/htdocs/drupal/" local="129713778630000000" remote="129713778630000000" />
+</dwsync>

@@ -1,0 +1,322 @@
+/* This file will hold the main styles for your website. */
+
+html {
+	height: 100%;
+	background: url(../images/backgroundImages/topHalf_bkImages.png) repeat-x top left #0a5091;
+	font-size: .625em;
+}
+
+/*#section-header{
+	background-image:transparent url(../images/backgroundImages/cardinalHeader.png) no-repeat top right;
+
+
+}*/
+
+
+
+#region-content h1{ /*this is to change the position for all the titles on the page*/
+	color:#333;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-variant:small-caps;
+	text-shadow: 0px -1px 0px #ccc;
+	filter: dropshadow(color=#cccccc,offX=0,offY=1);
+}
+
+
+#zone-content{
+	height: 100% !important;
+	border: #ccc thin solid;
+	margin:2em auto;
+	height:100%;
+min-height: 350px;
+	border: 2px solid #434343;
+	background-color:#fff;
+	/*this is for IE. got this from http://kimili.com/journal/rgba-hsla-css-generator-for-internet-explorer*/
+/*background: transparent;*//*didn't need to include. was affecting Firefox*/	
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5FCFAF1,endColorstr=#E5FCFAF1)"; /* IE8 */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5FCFAF1,endColorstr=#E5FCFAF1);   /* IE6 & 7 */
+	zoom: 1;
+	/*this controls the radius of the corners*/
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	/*this adds shadow aroun main container*/
+	-moz-box-shadow: 0 0 15px 5px #535353;
+	-webkit-box-shadow: 0 0 15px 5px #535353;
+	box-shadow: 0 0 15px 5px #535353;
+
+
+}
+#breadcrumb{
+background-color:#F90;
+height:3em;
+text-align:center;
+
+}
+
+#zone-postscript-wrapper, #section-footer{
+
+background-color:#ccc;
+/*border:#000 medium thin;
+border-right:none;
+border-left:none;*/
+
+}
+
+#region-sidebar-first, #region-sidebar-second{
+background-color:#F00;
+width: 200px;
+/*width:20%;*/
+}
+ #region-sidebar-second{
+
+float:right;
+}
+
+
+#region-sidebar-first .block-inner, #region-sidebar-second .block-inner{
+
+border: 3px double #333 !important;
+	background-color:#ccc;
+/*margin:.8em 0 1em .2em;*/
+/*width:200px;*/
+min-width: 175px;
+padding:0;
+margin-left:.2em;
+width:175px;
+}
+
+#region-preface-third{  /*this is the wrapper for searchbar  below the primary menu.  If this gets moved then you will need to adjust the css div id*/
+/*width:350px;
+height: 2.5em;
+float:none;
+padding:.4em 0;
+background-color:#000;
+*/
+}
+
+
+#region-preface-third input[type="text"]{  /*this is the searchbar  below the primary menu.  If this gets moved then you will need to adjust the css div id*/
+width: 250px;
+height: 2.25em;
+
+}
+
+#region-user-second li { 
+display: inline; 
+float:right;
+height:50px;
+
+
+
+}
+
+#region-user-second ul li a {
+	display:block;
+	width: 150px;
+	/*padding:1px 0 5px 0;*/
+	color:#333;
+	background: transparent url(../images/mainNavImages/loginButtons_slidingDoor.png)  0 0 no-repeat;
+	text-decoration: none;
+text-align:center;
+font-weight:bold;
+	height: 45px;
+	float:left;
+line-height:3.5em;
+font-variant:small-caps;
+text-shadow: 0px -1px 0px #fff;
+filter: dropshadow(color=#e5e5ee,offX=0,offY=1);
+	/*margin-left:0.5em;*/
+
+}
+
+#region-user-second a:hover{
+	background-position: 0 -46px;
+	color:#F90;
+	/*margin-left:0.5em;*/
+text-align:center;
+font-weight:bold;
+}
+
+region-user-second:active{
+background: transparent url(../images/mainNavImages/login_right.png) no-repeat 0 0;
+padding:5px;
+
+}
+/*#region-user-second ul li a {
+text-align:center;
+color:#FFF;
+background:url(../images/mainNavImages/active.png) center no-repeat;
+width:150px;
+height: 46px;
+display:block;
+	display: inline-block; 
+	padding: 5px 10px 6px; 
+	color: #333; 
+	text-decoration: none;
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border: 1px inset rgba(0,0,0,0.25);
+	position: relative;
+	cursor: pointer;
+
+}*/
+
+
+/*#region-user-second a:hover {
+	text-decoration: none;
+background-color:#630;
+border:#FFC thin inset;
+	border: 1px inset rgba(0,0,0,0.25);
+}*/
+
+/*#region-user-second:active {
+	position: relative;
+	top: 1px;
+	border: 1px inset rgba(0,0,0,0.25);
+
+}
+*/
+
+/*this is for the main navigation menu links that is produced by using superfish module*/
+.sf-menu {
+ /* line-height: 1.0;*/
+  z-index: 497;
+float:left;
+position:relative;
+left:50%;
+text-decoration:none;
+width:auto;
+margin:20px 0;
+list-style: none;
+}
+
+.sf-menu a /*#region-user-second ul li a, #region-user-second:active */ {
+  display: block;
+  position: relative;
+text-decoration:none;
+background-color:#036;
+background:url(../images/mainNavImages/active.png) no-repeat top left;
+     text-decoration: none;
+     width: 150px;
+height:46px;
+text-align:center;
+font-weight: bold;
+line-height:4;
+font-size:.75em;
+/*padding:0;*/
+color:#fff;
+
+}
+.sf-menu a:hover/*, #region-user-second a:hover*/ {
+color:#000; /*yellow color*/
+background:url(../images/mainNavImages/hover.png) no-repeat top left;
+
+}
+.sf-menu ul {
+  position: absolute;
+  top: -99999em;
+  width: 12em;
+
+}
+.sf-menu li {
+  float: left;
+  position: relative;
+  z-index: 498;
+left:-50%;
+width:150px;
+/*width:100%;*/
+background-color:#0FC;
+
+}
+.sf-menu ul li {
+left:0%;
+background-color:#0a5091;
+height:34px;
+/*line-height:3;*/
+
+/*padding: 0;*/
+background:none;
+width: 18em;
+}
+
+.sf-menu ul li a {/*this is the submenu for the main navigation*/
+background:none;
+border:#333 thin solid;
+width: 20em;
+height:34px;
+line-height:3.5;
+text-align:left;
+padding-left:5px;
+background-color:#0a5091;
+}
+
+.sf-menu ul li a:hover { 
+background:none;
+height:34px;
+line-height:3.5;
+text-align:left;
+/*background-color:#FF0;*/
+background-color: rgba(0,0,0,0.8);
+background-color: #333; /*for legacy browsers*/
+color:#fff;
+width: 20em;
+padding-left:5px;
+}
+/*submenu arrows*/
+
+.sf-sub-indicator {
+/*  background: url('../images/arrows-ffffff.png') no-repeat -10px -100px;*/
+background:url(../images/menu_arrows/arrows-ffffff.png) no-repeat -10px -100px;
+  display: block;
+  height: 10px;
+  overflow: hidden;
+  position: absolute;
+/*  right: 0.75em;*/
+  right: .5em;
+  text-indent: -999em;
+  top: 1.05em;
+  width: 10px;
+}
+a > .sf-sub-indicator {
+  top: 0.8em;
+  background-position: 0 -100px;
+}
+a:focus > .sf-sub-indicator,
+a:hover > .sf-sub-indicator,
+a:active > .sf-sub-indicator,
+li:hover > a > .sf-sub-indicator,
+li.sfHover > a > .sf-sub-indicator {
+  background-position: -10px -100px;
+}
+.sf-menu ul .sf-sub-indicator {
+  background-position: -10px 0;
+}
+.sf-menu ul a > .sf-sub-indicator {
+  background-position: 0 0;
+}
+
+/* this controls the submenus space around the arrow graphics..*/
+.sf-menu ul a:focus > .sf-sub-indicator, 
+.sf-menu ul a:hover > .sf-sub-indicator,
+.sf-menu ul a:active > .sf-sub-indicator,
+.sf-menu ul li:hover > a > .sf-sub-indicator,
+.sf-menu ul li.sfHover > a > .sf-sub-indicator {
+  background-position: -10px 0;
+}
+.sf-shadow ul {
+  background: url('../images/shadow.png') no-repeat bottom right;
+  padding: 0 8px 9px 0;
+  -moz-border-radius-bottomleft: 17px;
+  -moz-border-radius-topright: 17px;
+  -webkit-border-top-right-radius: 17px;
+  -webkit-border-bottom-left-radius: 17px;
+}
+.sf-shadow ul.sf-shadow-off {
+  background: transparent;
+}
+/*this is for the main navigation menu that is produced by using superfish module*/

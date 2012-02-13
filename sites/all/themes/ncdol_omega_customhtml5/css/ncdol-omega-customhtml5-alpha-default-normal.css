@@ -1,0 +1,10 @@
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+
+#region-content{
+background-color:#FF0;
+width:500px;
+min-width:498px;
+	height:100%;
+min-height: 350px;
+
+}

@@ -1,0 +1,10 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+/*this will make the content width wider when the screen view is at maximum..*/
+#region-content {
+	background-color:#633;
+	width:730px;
+	padding-right: 4px;
+	height:100%;
+min-height: 350px;
+}
